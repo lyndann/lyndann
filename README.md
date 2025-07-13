@@ -1,5 +1,5 @@
 ## Hi there, I'm Lynda Nguyen 👋
-
+I am a Computer Science Major with an expected graduation date of May 2026 at California State University, San Marcos.
 <!--
 **lyndann/lyndann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
