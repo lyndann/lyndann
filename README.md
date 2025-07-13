@@ -2,10 +2,10 @@
 I am a Computer Science Major with an expected graduation date of May 2026 at California State University, San Marcos.
 
 ## 💬 About Me:
-- Computer Science Major
+
 
 ## 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/lynda-nguyen-537b63289/):  
+[LinkedIn](https://www.linkedin.com/in/lynda-nguyen-537b63289/)  
 Email: Lnn1604@gmail.com
 
 
